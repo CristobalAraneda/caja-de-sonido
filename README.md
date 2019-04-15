@@ -4,8 +4,11 @@ Aplicación realizada con IONIC 2 , caja de sonido de animales , reproduce los s
 permitiendo eliminar , ordenar o mover  la listas.
 
 ### version
- 1.0.1 
+ 1.0.1 [releases](https://github.com/CristobalAraneda/caja-de-sonido/releases) 
  
 # preview
 
- ![Tux, the Linux mascot](https://drive.google.com/file/d/12JYcd6BkL1l_b43Vh9Sb9sRzQbPqqzxx/view?usp=sharing)
+![Home](https://photo.dev.cristobalaraneda.com/preview/lista.png)
+
+
+![Ordenar](https://photo.dev.cristobalaraneda.com/preview/ordenar.png)
